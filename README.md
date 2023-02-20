@@ -1,1 +1,2 @@
 # deep-learning-challenge
+This repository designs a neural network to create a binary classification model that can predict whether or not an organization will effectively use their funded money based on the features of the dataset. The data is preprocessed so that it is ready for the neural network model, which is then compiled, trained, and evaluated. Optimization methods are then implemented with the goal of improving accuracy of the original model.
